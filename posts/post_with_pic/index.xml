@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>post with pic on strongcc&#39;blog</title>
+    <link>https://strongcc.github.io/posts/post_with_pic/</link>
+    <description>Recent content in post with pic on strongcc&#39;blog</description>
+    <image>
+      <title>strongcc&#39;blog</title>
+      <url>https://strongcc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://strongcc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <atom:link href="https://strongcc.github.io/posts/post_with_pic/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
