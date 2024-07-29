@@ -6,11 +6,27 @@
     <description>Recent content in Categories on strongcc&#39;blog</description>
     <image>
       <title>strongcc&#39;blog</title>
-      <url>https://strongcc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://strongcc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://strongcc.github.io/images/papermod-cover.png</url>
+      <link>https://strongcc.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
+    <copyright>strongcc&amp;rsquo;blog</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://strongcc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syntax</title>
+      <link>https://strongcc.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://strongcc.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://strongcc.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://strongcc.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
