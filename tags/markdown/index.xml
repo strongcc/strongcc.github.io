@@ -28,12 +28,5 @@
       <guid>https://strongcc.github.io/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://strongcc.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
   </channel>
 </rss>

@@ -30,6 +30,13 @@
     </item>
     <item>
       <title>test qizai</title>
+      <link>https://strongcc.github.io/posts/test_pic/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://strongcc.github.io/posts/test_pic/</guid>
+      <description>just test for qizai.</description>
+    </item>
+    <item>
+      <title>test qizai</title>
       <link>https://strongcc.github.io/posts/test_qizai/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/posts/test_qizai/</guid>
@@ -48,13 +55,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://strongcc.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
     </item>
     <item>
       <title>Math Typesetting</title>

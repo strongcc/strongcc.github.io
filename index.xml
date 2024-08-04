@@ -29,10 +29,10 @@
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
-      <title>test qizai pic</title>
-      <link>https://strongcc.github.io/posts/2024-07-29-test_qizai_pic/2024-07-29-test_qizai_pic-features/</link>
+      <title>test_pic_v2-features</title>
+      <link>https://strongcc.github.io/posts/test_pic_v2/test_pic_v2-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/posts/2024-07-29-test_qizai_pic/2024-07-29-test_qizai_pic-features/</guid>
+      <guid>https://strongcc.github.io/posts/test_pic_v2/test_pic_v2-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
@@ -48,6 +48,13 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>test qizai</title>
+      <link>https://strongcc.github.io/posts/test_pic/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://strongcc.github.io/posts/test_pic/</guid>
+      <description>just test for qizai.</description>
     </item>
     <item>
       <title>test qizai</title>
@@ -69,13 +76,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>https://strongcc.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
     </item>
     <item>
       <title>Math Typesetting</title>
