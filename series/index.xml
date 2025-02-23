@@ -9,7 +9,7 @@
       <url>https://strongcc.github.io/images/papermod-cover.png</url>
       <link>https://strongcc.github.io/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <copyright>strongcc&amp;rsquo;blog</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
@@ -17,22 +17,15 @@
     <item>
       <title>Life</title>
       <link>https://strongcc.github.io/series/life/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/series/life/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
       <link>https://strongcc.github.io/series/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://strongcc.github.io/series/papermod/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes Guide</title>
-      <link>https://strongcc.github.io/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>

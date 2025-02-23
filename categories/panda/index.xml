@@ -9,18 +9,11 @@
       <url>https://strongcc.github.io/images/papermod-cover.png</url>
       <link>https://strongcc.github.io/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <copyright>strongcc&amp;rsquo;blog</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://strongcc.github.io/categories/panda/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test qizai</title>
-      <link>https://strongcc.github.io/posts/test_pic/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://strongcc.github.io/posts/test_pic/</guid>
-      <description>just test for qizai.</description>
-    </item>
     <item>
       <title>test qizai</title>
       <link>https://strongcc.github.io/posts/test_qizai/</link>
